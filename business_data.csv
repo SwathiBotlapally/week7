@@ -1,0 +1,13 @@
+Month,Sales,Marketing_Spend,Region
+Jan,42000,8000,North
+Feb,45000,8500,South
+Mar,47000,9000,North
+Apr,49000,9200,East
+May,52000,10000,West
+Jun,56000,11000,North
+Jul,58000,11500,South
+Aug,60000,12000,East
+Sep,62000,12500,West
+Oct,65000,13000,North
+Nov,68000,14000,South
+Dec,72000,15000,East
