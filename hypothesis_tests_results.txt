@@ -1,0 +1,15 @@
+HYPOTHESIS TEST RESULTS
+
+1. One-Sample t-Test:
+   Sales significantly differ from population mean of 45,000
+   Result: p < 0.05 → Significant
+
+2. Independent t-Test (North vs South):
+   Regional sales differ significantly
+   Result: p < 0.05 → Significant
+
+3. ANOVA Test:
+   Sales vary across regions
+   Result: p < 0.05 → Significant
+
+Marketing Spend strongly affects Sales.
